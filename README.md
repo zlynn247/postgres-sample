@@ -1,4 +1,4 @@
-#Postgres-practice 
+# Postgres-practice 
 
 1. Navigate <a href=https://www.postgresqltutorial.com/postgresql-sample-database/>here<a> and download database backup zip file
 2. Extract to tar
